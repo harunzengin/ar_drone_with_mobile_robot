@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="try_togglecam" type="try_togglecam"
+      name="try_togglecam" output="screen"/>
+</launch>
